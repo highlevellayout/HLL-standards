@@ -1,5 +1,5 @@
-# TEXT
-The text field displays a string on screen. The parameters are:
+# LINK
+The link field displays a string on screen. The parameters are:
 * x - int
 * y - int
 * text - string
